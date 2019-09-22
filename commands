@@ -3,3 +3,5 @@ git branch : for knowing branches
 git branch branch-name : creating new branch
 
 git merge branch name  : merging branch with present branch
+
+git rebase branch-name : merging branch with out commit  message
