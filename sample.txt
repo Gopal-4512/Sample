@@ -1,0 +1,7 @@
+git --version : For knowing wheather git is installed or not
+
+git init : Initializing the .git 
+
+git --config global user.name name  : configuring user name
+
+git --config global user.email email  :Email configuration
